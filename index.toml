@@ -1152,11 +1152,6 @@ hash = "71e8a06cef4c957a93f975739b030d1bc3ca3fdf3b9c1b5a04b7e77d0c1c2784"
 metafile = true
 
 [[files]]
-file = "mods/modular-item-api.pw.toml"
-hash = "dd4712809317c9a02bd4c511443969cdf61a4f04ad3dd9720636c68e8432316c"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "0e1b050e68f2d208de8937f98e4c40a5e29ce13af27343278ebf4aa0adddfb50"
 metafile = true
@@ -1580,21 +1575,6 @@ metafile = true
 [[files]]
 file = "mods/trinkhide-1.0.0+2a45046.jar"
 hash = "c576c51096b9a8ef40966be810aaf1c067bf6a00493e8ae5d24626b9ca43e235"
-
-[[files]]
-file = "mods/truly-modular-archery.pw.toml"
-hash = "cc9b6b33d6bc8ae4034a89bce2c1867273d3392b1de394ca00e1df7d56a1aaaa"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-armory.pw.toml"
-hash = "a5a3e224b877d297c06fb941ed26d9728ef9655fddb11d0e0033906e936d0fc6"
-metafile = true
-
-[[files]]
-file = "mods/truly-modular-arsenal.pw.toml"
-hash = "6b84a07c279e44cff4df99bfc5e75f4033bbf11ee4277b136d4e3cae94044d39"
-metafile = true
 
 [[files]]
 file = "mods/turtle-charging-station.pw.toml"
