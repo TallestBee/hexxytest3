@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "ht32:swap_bodies",
+        "ht32:body_builder",
+        "ht32:emergency_swap",
+        "ht32:swap_sickness"
+    ],
+    "icon": {
+        "item": "minecraft:command_block"
+    },
+    "order": 9,
+    "impact": 3,
+    "name": "Mobile Mind",
+    "description": "This mind is not bound to a single body, instead they may craft new ones and swap between them as they please."
+}

@@ -1,0 +1,22 @@
+{
+    "type": "origins:attribute",
+    "modifiers": [
+        {
+            "attribute": "minecraft:generic.max_health",
+            "value": -4,
+            "operation": "addition"
+        },
+        {
+            "attribute": "minecraft:generic.armor",
+            "value": -0.25,
+            "operation": "multiply_total"
+        },
+        {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": -1,
+            "operation": "multiply_total"
+        }
+    ],
+    "name": "Vestigial Parts",
+    "description": "Your axolotl half is forever fragile, reducing your max health by two hearts. Armor is reduced by 25% and you do not benefit from armor toughness."
+}

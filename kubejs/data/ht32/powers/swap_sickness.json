@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "value": -0.5,
+        "operation": "multiply_total"
+    },
+    "name": "Swapping Sickness",
+    "description": "The unanchored nature of your mind greatly reduces your health. Additionally, swapping between bodies briefly debuffs you."
+}

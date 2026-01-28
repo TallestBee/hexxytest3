@@ -1,0 +1,17 @@
+{
+    "type": "origins:attribute",
+    "modifiers": [
+        {
+            "attribute": "hexcasting:grid_zoom",
+            "value": 0.33,
+            "operation": "multiply_base"
+        },
+        {
+            "attribute": "hexcasting:scry_sight",
+            "value": 1.0,
+            "operation": "addition"
+        }
+    ],
+    "name": "Scrying Eyes",
+    "description": "Your vision is altered, as though you are wearing a scrying lens."
+}

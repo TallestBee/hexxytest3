@@ -1,0 +1,10 @@
+{
+    "type": "origins:active_self",
+    "cooldown": 20,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "execute positioned ~ ~ ~ rotated ~ ~ run function ht32:swap/swap"
+    },
+    "name": "Swap Bodies",
+    "description": "Relocate your mind to another random body that you control."
+}
