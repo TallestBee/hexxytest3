@@ -14,6 +14,6 @@
             "type": "origins:creative_flying"
         }
     },
-    "name": "Flight",
-    "description": "You can fly!"
+    "name": "ht32.power.flight",
+    "description": "ht32.power.flight.desc"
 }

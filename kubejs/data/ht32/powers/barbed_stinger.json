@@ -28,6 +28,6 @@
         "type": "origins:projectile",
         "inverted": true
     },
-    "name": "Barbed Stinger",
-    "description": "You apply poison when directly attacking but also take one and a half hearts of damage."
+    "name": "ht32.power.barbed_stinger",
+    "description": "ht32.power.barbed_stinger.desc"
 }

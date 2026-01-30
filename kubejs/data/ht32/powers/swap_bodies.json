@@ -1,0 +1,10 @@
+{
+    "type": "origins:active_self",
+    "cooldown": 20,
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "execute positioned ~ ~ ~ rotated ~ ~ run function ht32:swap/swap"
+    },
+    "name": "ht32.power.swap_bodies",
+    "description": "ht32.power.swap_bodies.desc"
+}

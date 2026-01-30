@@ -35,6 +35,6 @@
         "comparison": "==",
         "compare_to": 1
     },
-    "name": "Hively Home",
-    "description": "Interact with a beehive or beenest after pollinating to deposit the material and produce honey."
+    "name": "ht32.power.hively_home",
+    "description": "ht32.power.hively_home.desc"
 }
